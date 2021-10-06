@@ -3,10 +3,10 @@ base de données
 
 -This program requires python 3
 
-###create virtual environement
+### create virtual environement
 `python3 -m venv tutorial-env`
 
-###activate virtual environement
+### activate virtual environement
 `env\Scripts\activate.bat`
 
 before to open this programe with your idle install the packages with this comand :
