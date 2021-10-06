@@ -3,7 +3,9 @@ base de données
 
 -This program requires python 3
 
-before to open this programe with your idle install the packages with this comand :"pip install -r /"localisation"/requirements.txt"
+before to open this programe with your idle install the packages with this comand :
+### Windows 
+`pip install -r requirements.txt`
 
 This program keeps several foods of several categories and allows the user to choose among the categories a food the program then will propose to the user another food with the same categories with a better nutriscrore if there is one. Then the user can choose to keep it in another database.
 
