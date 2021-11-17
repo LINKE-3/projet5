@@ -14,6 +14,7 @@ before to open this programe with your idle install the packages with this coman
 `pip install -r requirements.txt`
 
 ### create database 
+`python Database.py`
 `python db_filling.py`
 
 ### launch programe
